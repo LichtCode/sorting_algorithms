@@ -34,12 +34,6 @@ void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 
-/*
-void _swap(listint_t *node1, listint_t *node2);
-void swap(int *array, int size, int arr_index1, int arr_index2);
-void quicksort(int *array, size_t size, int arr_start, int arr_end);
-int partition(int *array, size_t size, int arr_start, int arr_end);
-*/
 
 void shell_sort(int *array, size_t size);
 
