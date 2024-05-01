@@ -10,7 +10,7 @@
 
 ## 3. Quick sort
 
-## 
+## 4. Shell sort - Knuth Sequence
 
 ## 
 
