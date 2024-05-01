@@ -48,7 +48,7 @@ int partition(int *array, size_t size, int arr_start, int arr_end)
 		j++;
 	}
 	swap(array, size, i, pivot);
-	
+
 	return (i);
 }
 
